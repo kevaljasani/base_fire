@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464981187938",
+    "project_id": "keval-4afc8",
+    "storage_bucket": "keval-4afc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464981187938:android:ce45f4426336c80a50a03b",
+        "android_client_info": {
+          "package_name": "com.example.base_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxU1HzKD6Hc3yC-q58Q639GSOIKCK-54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
